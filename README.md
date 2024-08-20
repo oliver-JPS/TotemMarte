@@ -1,2 +1,5 @@
-# TotemMarte
-Projeto universitário desenvolvido com o uso de linguagem Java.
+# APS - UNIP
+
+Atividades Práticas  Supervisionadas - UNIP 3 semestre
+
+
